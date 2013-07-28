@@ -1,0 +1,47 @@
+{
+    "meta_data": {
+        "title": "Lorem Ipsum Dolor",
+        "author": "Juan Tamad",
+        "description": "Le lorem ipsum eset.",
+    },
+    "story": {
+        "1": {
+            "type": "plot",
+            "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+            "choice": {
+                "1": {
+                    "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                    "page": 2,
+                },
+                "2": {
+                    "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                    "page": 6,
+                },
+            },
+        },
+        "2": {
+            "type": "battle",
+            "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+            "result": {
+                "win": {
+                    "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                    "choice": {
+                        "1": {
+                            "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                            "page": 5,
+                        }
+                    }
+                },
+                "lose": {
+                    "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                    "choice": {
+                        "1": {
+                            "narrative": "Lorem ipsum dolor eset. Dimas usam tip et.",
+                            "page": 30,
+                        },
+                    },
+                },
+            },
+        },
+    },
+}
